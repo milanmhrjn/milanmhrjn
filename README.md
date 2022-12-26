@@ -17,4 +17,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanmhrjn&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milanmhrjn&theme=tokyonight" alt="milanmhrjn"/></p>
