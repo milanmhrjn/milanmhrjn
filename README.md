@@ -1,8 +1,14 @@
 
 <h1 align="center">Hello 👋, This is Milan Maharjan.</h1>
-<h3 align="center">Lazy guy, who sleeps 12 hours a day😴.</h3>
+<h3 align="center">A student who is trying to learn mobile app development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanmhrjn&label=Profile%20views&color=0e75b6&style=flat" alt="milanmhrjn" /> </p>
+
+- 🔭 I’m currently a **student**
+
+- 🌱 I’m currently **learning flutter and dart**
+
+- 📫 How to reach me **milanmaharjan2013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
