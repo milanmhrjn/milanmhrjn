@@ -3,5 +3,4 @@
 
 - 🔭 I’m currently a **student**
 
-- 🌱 I’m currently **learning dart and flutter
-- **
+- 🌱 I’m currently **learning dart and flutter**
